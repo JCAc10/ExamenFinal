@@ -8,6 +8,8 @@ TagManager:
   - moneda
   - diamante
   - corazon
+  - enemigo
+  - bala
   layers:
   - Default
   - TransparentFX

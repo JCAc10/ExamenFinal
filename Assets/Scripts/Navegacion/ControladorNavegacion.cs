@@ -12,7 +12,7 @@ public class ControladorNavegacion : MonoBehaviour
 		SceneManager.LoadScene(1);
 	}
 	public void multijugador(){
-		SceneManager.LoadScene(0);
+		SceneManager.LoadScene(2);
 	}
 	public void salir(){
 		Application.Quit();
