@@ -825,7 +825,7 @@ MonoBehaviour:
   NetworkConfig:
     ProtocolVersion: 0
     NetworkTransport: {fileID: 1806050683}
-    PlayerPrefab: {fileID: 442178279960876864}
+    PlayerPrefab: {fileID: 3111684497872814253, guid: a5a7aa9a0dfe39f44b5129c903a4d938, type: 3}
     Prefabs:
       NetworkPrefabsLists: []
     TickRate: 30
@@ -1296,6 +1296,10 @@ PrefabInstance:
     - target: {fileID: 781636114012000513, guid: da4200c398b2c5e42b64015c8e89cbd0, type: 3}
       propertyPath: m_Name
       value: Personaje
+      objectReference: {fileID: 0}
+    - target: {fileID: 781636114012000513, guid: da4200c398b2c5e42b64015c8e89cbd0, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2254797251794337089, guid: da4200c398b2c5e42b64015c8e89cbd0, type: 3}
       propertyPath: m_RootOrder
